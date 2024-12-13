@@ -1,4 +1,4 @@
-Calculator App - README
+###Calculator App - README
 
 Overview
 This is a simple web-based calculator built using HTML, CSS, and JavaScript. The application provides basic arithmetic operations including addition, subtraction, multiplication, division, and more advanced functionalities like clearing the display and deleting the last digit.
@@ -20,6 +20,7 @@ Decimal Point: Use the "." button to add a decimal point to your number.
 Clear Display: Click on "AC" to clear the entire display.
 Delete Last Digit: Click on "DE" to remove the last digit entered.
 Calculate: Press "=" to evaluate the expression and display the result.
+
 File Structure
 The project includes the following files:
 
