@@ -3,7 +3,10 @@
 ## Overview
 This is a simple web-based calculator built using HTML, CSS, and JavaScript. The application provides basic arithmetic operations including addition, subtraction, multiplication, division, and more advanced functionalities like clearing the display and deleting the last digit.
 
-![image alt](https://github.com/AchiniWathsala/calculator/blob/da62723ac39e3dfd64dd83a3726214c1cabef129/Calculator.png)
+<p align="center">
+  ![Calculator](https://github.com/AchiniWathsala/calculator/blob/da62723ac39e3dfd64dd83a3726214c1cabef129/Calculator.png)
+</p>
+
 
 ## Features
 Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (*), Division (/).
@@ -27,6 +30,6 @@ Calculate: Press "=" to evaluate the expression and display the result.
 
 ## File Structure
 The project includes the following files:
-index.html: The main HTML file that defines the structure of the calculator.
-calculator.css: The CSS file that defines the styling of the calculator layout.
+ index.html: The main HTML file that defines the structure of the calculator.
+ calculator.css: The CSS file that defines the styling of the calculator layout.
 
