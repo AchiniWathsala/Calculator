@@ -3,6 +3,8 @@
 ## Overview
 This is a simple web-based calculator built using HTML, CSS, and JavaScript. The application provides basic arithmetic operations including addition, subtraction, multiplication, division, and more advanced functionalities like clearing the display and deleting the last digit.
 
+![image alt](https://github.com/AchiniWathsala/calculator/blob/da62723ac39e3dfd64dd83a3726214c1cabef129/Calculator.png)
+
 ## Features
 Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (*), Division (/).
 Clear Display: The "AC" button clears the display.
